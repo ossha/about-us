@@ -17,7 +17,7 @@ OSSHA will be created using off the shelf components and hardware. The intent he
 
 The initial precidence enforced is:
 
-1. A stack built around Elixir, Nerves, LoRAWAN, and the Raspberry Pi foundation.
+1. A stack built around Elixir, Nerves, LoRAWAN, wifi, bluetooth, and the Raspberry Pi foundation.
 
 A strong community already exists for these products, services, and frameworks. OSSHA is just a concerted effort comprised of their great efforts. 
 
